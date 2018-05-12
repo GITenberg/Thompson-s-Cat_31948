@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33777
     wikipedia: http://en.wikipedia.org/wiki/Robert_Moore_Williams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31948#Thompson-s-Cat
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-04-11'
 gutenberg_type: Text

@@ -1,0 +1,29 @@
+_repo: Thompson-s-Cat_31948
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31948-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Williams, Robert Moore
+    birthdate: 1907
+    deathdate: 1977
+    gutenberg_agent_id: '33777'
+    url: http://www.gutenberg.org/2009/agents/33777
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Moore_Williams
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31948'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: Thompson's Cat
+url: http://www.gutenberg.org/ebooks/31948
